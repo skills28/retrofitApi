@@ -26,7 +26,7 @@ if ($conn->connect_error) {
 ?>
 
 ```
-## insert.php
+> retrofitApi/v2/insert.php
 
 ```php
 <?php
@@ -70,7 +70,7 @@ $conn->close();
 
 ```
 
-## list.php
+> retrofitApi/v2/list.php
 
 ```php
 
