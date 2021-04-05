@@ -2,6 +2,7 @@
  
 - PHP Version 7.4.16
 - Mysql Version 5.3.8
+- Laragon [Laragon] (http://github.com)
 
 ## conn.php
 
