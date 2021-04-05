@@ -115,7 +115,7 @@ $conn->close();
 
 ```
 
-# ~~Image Json File List~~
+# ~~Json List~~
 
 <img src="https://github.com/skills28/retrofitApi/blob/main/json.PNG" title="JSON File">
 
