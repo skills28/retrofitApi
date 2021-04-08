@@ -21,7 +21,7 @@ AUTO_INCREMENT=9
 
 ```
 
-> retrofitApi/conn/conn.php
+> conn.php file
 
 ```php
 
@@ -43,7 +43,7 @@ if ($conn->connect_error) {
 ?>
 
 ```
-> retrofitApi/v2/insert.php
+> insert.php file
 
 ```php
 <?php
@@ -87,7 +87,7 @@ $conn->close();
 
 ```
 
-> retrofitApi/v2/list.php
+> list.php file
 
 ```php
 
