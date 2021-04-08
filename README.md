@@ -1,10 +1,13 @@
 # PHP & Retrofit Library App
  
+ 
 - PHP Version ~~**7.4.16**~~
 - Mysql Version ~~**5.3.8**~~
 - Laragon (https://laragon.org/)
 
+
 > ### database table
+
 
 ```mysql
 
@@ -20,6 +23,7 @@ AUTO_INCREMENT=9
 ;
 
 ```
+
 
 > ### conn.php file
 
@@ -43,9 +47,11 @@ if ($conn->connect_error) {
 ?>
 
 ```
+
 > ### insert.php file
 
 ```php
+
 <?php
 
 include("../conn/conn.php");
@@ -87,7 +93,9 @@ $conn->close();
 
 ```
 
+
 > ### list.php file
+
 
 ```php
 
@@ -132,8 +140,10 @@ $conn->close();
 
 ```
 
+
 > # ~~Json List~~
 
 <img src="https://github.com/skills28/retrofitApi/blob/main/json.PNG" title="JSON File">
+
 
 # Done Work!
