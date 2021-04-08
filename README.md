@@ -4,7 +4,7 @@
 - Mysql Version ~~**5.3.8**~~
 - Laragon (https://laragon.org/)
 
-## database table
+> ### database table
 
 ```mysql
 
@@ -21,7 +21,7 @@ AUTO_INCREMENT=9
 
 ```
 
-> conn.php file
+> ### conn.php file
 
 ```php
 
@@ -43,7 +43,7 @@ if ($conn->connect_error) {
 ?>
 
 ```
-> insert.php file
+> ### insert.php file
 
 ```php
 <?php
@@ -87,7 +87,7 @@ $conn->close();
 
 ```
 
-> list.php file
+> ### list.php file
 
 ```php
 
@@ -132,7 +132,7 @@ $conn->close();
 
 ```
 
-# ~~Json List~~
+> # ~~Json List~~
 
 <img src="https://github.com/skills28/retrofitApi/blob/main/json.PNG" title="JSON File">
 
